@@ -1,0 +1,2 @@
+## Allocators.
+##### I found this laboratory work extremely useful. And there are a couple of reasons for this. Firstly, allocators are used in game development. Secondly, the c++ programming language puts the responsibility of working with memory on the developer, so this work is extremely useful. As a result, there were many variants of allocators that you can familiarize yourself with.
